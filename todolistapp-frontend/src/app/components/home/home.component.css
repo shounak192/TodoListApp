@@ -1,0 +1,12 @@
+.app-container {
+    height: 100%;
+    width: 100%;
+  }
+
+.done-todo:hover {
+  background-color: rgb(120, 211, 46);
+}
+
+.pending-todo:hover {
+  background-color: rgb(238, 238, 51);
+}

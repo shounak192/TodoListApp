@@ -2,7 +2,7 @@
 
 <p id="description">A simple Todo List application allowing user to list down their tasks mark them complete or delete them if not required.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Angular-12.2.1-red" alt="shields"><img src="https://img.shields.io/badge/Spring%20Boot-4.7.0-brightgreen" alt="shields"><img src="https://img.shields.io/badge/Node-14.16.1-green" alt="shields"><img src="https://img.shields.io/badge/npm-16.14.2-critical" alt="shields"><img src="https://img.shields.io/badge/mongoose-6.2.8-success" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/Angular-12.2.1-red" alt="shields">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-4.7.0-brightgreen" alt="shields">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node-14.16.1-green" alt="shields">&nbsp;&nbsp;<img src="https://img.shields.io/badge/npm-16.14.2-critical" alt="shields">&nbsp;&nbsp;<img src="https://img.shields.io/badge/mongoose-6.2.8-success" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 

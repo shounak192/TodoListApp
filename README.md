@@ -6,22 +6,14 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/a.png" alt="project-screenshot" width="400" height="400/">
+<p>Home page with all pending tasks & add task option</p>
+<img src="https://github.com/shounak192/TodoListApp/blob/main/screenshots/1.png" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/b.png" alt="project-screenshot" width="400" height="400/">
+<p>List of all completed todos</p>
+<img src="https://github.com/shounak192/TodoListApp/blob/main/screenshots/2.png" alt="project-screenshot" width="800" height="400/">
 
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/c.png" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/d.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/e.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/f.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://github.com/shounak192/Online-eBook/blob/master/screenshots/g.png" alt="project-screenshot" width="400" height="400/">
-
-  
-  
+ 
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:

@@ -50,7 +50,7 @@ https://account.mongodb.com/
 npm start
 ```
 
-<p>6. Run Angular application on localhost:4200</p>
+<p>6. Run Angular application on localhost</p>
 
 ```
 localhost:4200
